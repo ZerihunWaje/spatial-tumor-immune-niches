@@ -1,0 +1,12 @@
+scanpy>=1.10
+squidpy>=1.6
+anndata
+leidenalg
+igraph
+scikit-learn
+seaborn
+matplotlib
+pandas
+numpy
+scipy
+remotezip

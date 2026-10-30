@@ -1,0 +1,9 @@
+niche,name,B cells,Endothelial,Fibroblasts,Macrophages,Myoepithelial,Plasma cells,T cells,Tumor/Epithelial
+N0,Tumor border,0.00,0.08,0.07,0.08,0.09,0.01,0.09,0.59
+N1,Tumor core,0.00,0.01,0.01,0.01,0.01,0.00,0.01,0.95
+N2,T-cell zone,0.07,0.04,0.03,0.08,0.00,0.02,0.74,0.01
+N3,Myeloid-rich immune stroma,0.04,0.08,0.19,0.33,0.02,0.11,0.19,0.04
+N4,Lymphoid aggregate,0.10,0.07,0.10,0.16,0.01,0.08,0.44,0.04
+N5,Vascular niche,0.01,0.50,0.13,0.11,0.02,0.03,0.14,0.06
+N6,Duct wall (DCIS-like),0.00,0.03,0.07,0.04,0.57,0.00,0.05,0.23
+N7,Fibroblast stroma,0.02,0.06,0.58,0.13,0.02,0.05,0.12,0.02
